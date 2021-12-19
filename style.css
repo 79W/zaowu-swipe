@@ -1,0 +1,54 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
+.banner{
+    width: 100vw;
+    height: auto;
+    position: absolute;
+}
+.banner-background{
+    width: 375px;
+    height: 406px;
+    position: absolute;
+}
+.banner-background-image{
+    width: 100vw;
+    height: 406px;
+    position: absolute;
+    opacity: 0;
+}
+.backgroundShow{
+    opacity: 1 !important;
+    transition: opacity 1s;
+}
+.backgroundHide{
+    opacity: 0 !important;
+    transition: opacity 1s;
+}
+.banner-body{
+    position: relative;
+    height: 80px;
+    z-index: 79;
+    margin: 93px 10px 0 10px;
+    border-radius: 4px;
+    display: flex;
+    overflow: hidden;
+}
+
+.banner-swipe{
+    height: 80px;
+    border-radius: 4px;
+    display: flex;
+}
+
+.banner-swipe-item{
+    width: 100%;
+    min-width: 100%;
+}
+
+.banner-swipe-item img{
+    width: 100%;
+    min-width: 100%;
+    height: 100%;
+}
