@@ -1,6 +1,6 @@
 ## 造物APP 轮播图
 
-![轮播图展示](https://cdn.jsdelivr.net/gh/duogongneng/OneMyBlogImg@master/iShot2021-12-19%2018.16.12%20(1).gif)
+![轮播图展示](https://static01.imgkr.com/temp/8f7eca3e87f54d558e2bbbde4bd644fb.gif)
 
 做成Gif多少有点卡（可以自行下载源码进行查看）
 
